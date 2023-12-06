@@ -391,12 +391,12 @@
   color: white;
 }
 
-.stream .stream-ad {
+.stream .stream-detail {
   display: flex;
   flex-direction: column;
 }
 
-.stream .stream-ad .stream-ad-info {
+.stream .stream-detail .stream-detail-info {
   background: #030209;
   height: 740px;
   display: flex;
@@ -404,7 +404,7 @@
   margin-top: 50px;
 }
 
-.stream .stream-ad .stream-ad-info h6 {
+.stream .stream-detail .stream-detail-info h6 {
   color: #FFF;
   font-family: 'Playfair Display';
   font-size: 24px;
@@ -416,22 +416,22 @@
   padding-bottom: 40px;
 }
 
-.stream .stream-ad .stream-ad-info li {
+.stream .stream-detail .stream-detail-info li {
   display: flex;
   flex-direction: row;
 }
 
-.stream .stream-ad .stream-ad-info li img {
+.stream .stream-detail .stream-detail-info li img {
   padding: 10px;
 }
 
-.stream .stream-ad .stream-ad-info .stream-ad-description {
+.stream .stream-detail .stream-detail-info .stream-detail-description {
   display: flex;
   flex-direction: column;
   margin-left: 20px;
 }
 
-.stream .stream-ad .stream-ad-info .stream-ad-description div {
+.stream .stream-detail .stream-detail-info .stream-detail-description div {
   color: #FFF;
   font-family: 'Inter';
   font-size: 20px;
@@ -442,7 +442,7 @@
   margin-top: 20px;
 }
 
-.stream .stream-ad .stream-ad-info .stream-ad-description p {
+.stream .stream-detail .stream-detail-info .stream-detail-description p {
   color: #FFF;
   font-family: 'Playfair Display';
   font-size: 20px;

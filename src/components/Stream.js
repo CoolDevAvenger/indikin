@@ -32,9 +32,9 @@ export default function Stream() {
                             </div>
                         </div>
                         <div className='col-4'>
-                            <div className='stream-ad'>
+                            <div className='stream-detail'>
                                 <img src='img/stream/ad.png' alt='ad'/>
-                                <div className='stream-ad-info'>
+                                <div className='stream-detail-info'>
                                     <h6>Spotlight Celebrities</h6>
                                     <ul>
                                         <StreamInfoItem name="PETER SPIDER" job="Actor"/>
